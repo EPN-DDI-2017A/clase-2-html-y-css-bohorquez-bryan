@@ -1,0 +1,82 @@
+.contenido0{
+    width: 800px;
+    margin: 0 auto;
+}
+.title{
+    display: flex;
+    border-bottom: 2px solid #BCBBBB;
+    margin-left: auto;
+    margin-right: auto;
+    height: 110px;
+}
+
+h1{
+    font-family: Lato, sans-serif;
+    letter-spacing:4px;
+    font-weight: 100;
+    color:#696969;
+    font-size: 35px;
+    margin: 0 auto;
+    text-align: right;
+    padding-top: 28px;
+    padding-left: 380px;
+}
+.sub{
+    font-family: Lato, sans-serif;
+    color:#696969;
+    font-size: 15px;
+    text-align: right;
+    font-weight: 100;
+    margin-top: 5px;
+}
+.img1{
+    margin-bottom: 0px;
+    width: 120px;   
+}
+.img2{
+    margin-top: 5px;
+    width: 804px;  
+}
+.img3{
+    margin-top: 5px;
+    width: 250px; 
+    margin-left: -8px;
+}
+.img4{
+    margin-top: 5px;
+    width: 250px;  
+}
+.img5{
+    margin-top: 5px;
+    width: 250px;
+    margin-right: -12px;
+}
+.tabla{
+    margin-top: -35px;
+    width: 800px;
+    border-spacing: 12px;
+}
+
+p{
+    font-family: Candara;
+    color:lightgray;
+    font-size: 30px;
+    padding-left: 20px;
+}
+td{
+    font-family: Candara;
+    color:lightgray;
+    text-align: center;
+    margin-top: -10px;
+}
+.a{
+    font-family: "Malgun Gothic";
+    color:#696969;
+    font-size: 28px;
+    letter-spacing: 2px;
+}
+.link{
+    margin-top:4px;
+    font-size: 10px;
+    color:#696969;
+}

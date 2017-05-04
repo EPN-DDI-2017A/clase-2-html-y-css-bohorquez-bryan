@@ -1,0 +1,42 @@
+.contenido0{
+    width: 700px;
+    margin: 0 auto;
+    background-color:#E8E8E7;
+}
+.contenido{
+    border: 1px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: white;
+       
+}
+h1{
+    font-family: Gill Sans MT;
+    color:#696969;
+    font-size: 13px;
+    margin-left: 25px;
+    
+}
+.img{
+    margin-top: 5px;
+    width: 702px;
+}
+.franja{
+    border: 5px solid #8BCC98;
+    margin-top: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 18px;
+    
+}
+.contenido p{
+    text-indent: 40px;
+    width: 300px;
+    margin: 0 auto;
+    color:#696969;
+    font-family: lato; 
+    text-align: left;
+    font-size: 14px;
+    font-stretch: condensed;
+}

@@ -1,0 +1,79 @@
+.contenido0{
+    width: 800px;
+    margin: 0 auto;
+    
+}
+.title{
+    display: flex;
+    border-bottom: 2px solid #D0C4AB;
+    margin-left: auto;
+    margin-right: auto;
+    height: 110px;
+}
+.contenido{
+    margin-top: 10px;
+    background-color: #131A2D;
+}
+h1{
+    font-family: "Arial Black";
+    font-weight:bolder;
+    color:#131A2D;
+    font-size: 39px;
+    padding-top: 5px;
+    text-align: right;
+    padding-left: 380px;
+}
+.t2{
+    font-family: Lato, sans-serif;
+    color:#131A2D;
+    font-size: 15px;
+    text-align: right;
+    font-weight: 200;
+    margin-top: 0px;
+}
+.img1{
+    margin-top: 8px;
+    width: 100px;
+    
+}
+.img2{
+    margin-top: 15px;
+    width: 800px;  
+}
+.a{
+    font-family: Malgun Gothic;
+    color:#D0C4AB;
+    font-size: 20px;
+    background-color:  #D0C4AB;
+    width: 380px;
+    height: 150px;
+    
+}
+.tabla{
+    margin-top: -35px;
+    width: 800px;
+    border-spacing: 20px;
+}
+
+p{
+    font-family: Calibri;
+    color:#D0C4AB;
+    font-size: 28px;
+    padding-left: 30px;
+    margin-top: 25px;
+}
+.link{
+    font-family:Calibri;
+    color:#D0C4AB;
+    font-size: 12px;
+    text-align: center;
+    margin-top: -5px;
+    font-weight: 200;
+}
+.sub{
+    font-family:Century Gothic;
+    color:#D0C4AB;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 1px;
+}
